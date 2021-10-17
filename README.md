@@ -1,5 +1,6 @@
 # GodotBuildsLibrary
-There are many ways you can build Godot, here are some of them.
+
+There are many ways you can build Godot (Game engine), here are some of them.
 
 ## 00 (34.9MB):
 - target=release 
