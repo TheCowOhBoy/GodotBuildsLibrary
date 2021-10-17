@@ -1,0 +1,2 @@
+target=release use_lto=yes tools=no bits=64
+
