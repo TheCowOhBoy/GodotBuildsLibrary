@@ -66,3 +66,7 @@ There are many ways you can build Godot (Game engine), here are some of them.
 - bits=64 
 - disable_3d=yes
 
+## testBuilds
+### templates with all modules off except the one named after them.
+- cvtt
+
